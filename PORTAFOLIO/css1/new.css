@@ -1,0 +1,88 @@
+
+body {
+    font-size: 1.1rem;
+}
+
+.imagen {
+    margin: -9px -210px 0pc 0px;
+    width: 1300px;
+    height: 669px;
+
+}
+.iniq{
+    margin: 200px 0px 0px 0px;
+    font-size:40px;
+    font-weight:400;
+    font-family:custom_416;
+    font-style:normal;text-decoration:none;text-transform:none;color:rgba(255, 255, 255, 0.92)
+}
+
+.s {
+    margin: 400px 0px 0px 600px;
+
+}
+
+.sobremi {
+    margin: 0px 400px 500px 500px; 
+}
+.imgen {
+    margin: 0px 0px 0px 20%;
+    padding: 0px 0px 0px 0px;
+}
+.proyecto {
+    margin: 300px 0px 0px 500px;
+}
+
+.lp {
+    margin: 0px 0px 300px 0px;
+    padding: 0px 0px 0px 420px;
+    height: 100px;
+    width: 1300px;
+}
+
+
+.correo1  {
+    margin: 3% 0px 0px 0px;
+    background: #000000;
+    color: #ffffff;
+    padding-left: 50px;
+}
+
+.iconos {
+    padding: 0px 0px 0px 1169px;
+
+
+}
+
+
+.contacto{
+    padding: 20% 0px 0px 300px;
+    background: #000000;
+    color: #ffffff;
+
+}
+.negro {
+    margin: 0px 0px 0px 0px;
+    background: #000000;
+}
+
+.mapa {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 350px;
+    border: solid;  
+}
+
+.imagenes2 {
+    margin-top: -5%;
+}
+
+input{
+    height: 20px;
+    width: 150px;
+}
+
+button{
+    height:50px;
+    width: 150px;
+    color: #ffffff;
+}

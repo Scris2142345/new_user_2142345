@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    background: #000000;
+    color: #FFFFFF;
+    letter-spacing: .05rem;
+}
+
+.ll {
+	 padding: 50px 0px 0px 500px;
+	 font-size: 30px;
+
+}
+
+.o {
+	 padding: 50px 0px 0px 500px;
+}

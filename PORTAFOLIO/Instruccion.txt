@@ -1,0 +1,10 @@
+Instruccion del portafolio
+
+1. Descargar el WinRAR
+2. Extraer en una carpeta
+3. Activar el Servidor Locale
+4. Ir a un Navegador y dar la direccion del archio ejemplo " localhost/nombredelacarpeta/nombredelarchivo.php/"
+5. Si no te funciona la direccion intenta con esta "http://127.1.1.0/nombredelacarpeta/nombredelarchivo.php/"
+6. Ir a la seccion Mis Proyectos
+7. Abrir los proyectos dentro de los link
+8. Explorar los archivos y analizarlos
